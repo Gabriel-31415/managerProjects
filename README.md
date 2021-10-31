@@ -1,4 +1,4 @@
-## Como usar/How to use
+## How to use
 
 - Clone the repository with __git clone__
 - Copy __.env.example__ file to __.env__ and edit database credentials there
@@ -9,6 +9,6 @@
 - Run __npm run dev__ 
 
 
-## Licença/License
+## License
 
-Sinta-se livre para usar como desejar.(Feel free to use as you wish.)
+Feel free to use as you wish.
